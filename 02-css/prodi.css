@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body, h3, p, a, td{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+span{
+    color: rgb(248, 194, 112);
+}
+.Rezky{
+    background: url(h2.jpeg);
+    color: black;
+    margin: 0px auto;
+    padding: 15px;
+}
+div.lia{
+    background-color: #ffffffb3;
+    /* font-size: 20px; */
+    width: 800px; 
+    height: 600px;
+    margin: 20px auto;
+    border-radius: 30px;
+    padding-top: 30px;
+}
+h3{
+    text-align :center; 
+    font-size: 30px;
+    margin : 50px;
+}
+img.fotorezz {
+   width: 250px;
+   margin-right: 10px;
+   border-radius: 20px;
+   margin-left: 10px;
+}
